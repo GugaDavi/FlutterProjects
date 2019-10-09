@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Funcionamento
 
-<img src="./peapleInRestaurant.gif" width="580" height="1420"/>
+<img src="./peapleInRestaurant.gif" width="337.5" height="600"/>
