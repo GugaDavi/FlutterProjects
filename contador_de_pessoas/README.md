@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Funcionamento:
 
-[Funcionamento](./peapleInRestaurant.gif)
+![](./peapleInRestaurant.gif)
