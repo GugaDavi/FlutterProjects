@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Funcionamento:
 
-![](./peapleInRestaurant.gif)
+<img src=”./peapleInRestaurant.gif” width="500">
