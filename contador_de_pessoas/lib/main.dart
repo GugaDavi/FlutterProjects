@@ -71,7 +71,7 @@ class _HomeState extends State<Home> {
             ),
             Text(
               _peaple <= 0 ? 'Está Vazio, Pode Entrar' : 'Pode entrar',
-              style: TextStyle(color: Colors.white, fontSize: 28),
+              style: TextStyle(color: Colors.white, fontSize: 20),
             ),
           ],
         )
